@@ -21,3 +21,7 @@ Hackathon was conducted on Kaggle.
 - Private leaderboard: 9.34866
 
 **Slides Regarding the approach** : Will be uploaded soon
+
+**Team Members** :
+- Archit Sangal
+- Aditya Vardhan
