@@ -10,7 +10,7 @@ Hackathon was conducted on Kaggle.
 
 **Kaggle Link** : [https://www.kaggle.com/c/2021ai511ml-assignment-2-group-1-regression](https://www.kaggle.com/c/2021ai511ml-assignment-2-group-1-regression)
 
-![Leadboard](https://github.com/architsangal/AskReddit-Troll-Question-Detection-Challenge/blob/main/Leadboard%20SS.jpg)
+![Leadboard](https://github.com/architsangal/AskReddit-Troll-Question-Detection-Challenge/blob/main/Leadboard%20Screenshot.jpg)
 
 **Team Name** : MaRVeL
 
